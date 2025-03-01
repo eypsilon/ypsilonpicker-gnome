@@ -4,5 +4,6 @@
   "uuid": "ypsilonpicker@gnome",
   "shell-version": ["45", "46"],
   "url": "https://github.com/eypsilon/ypsilonpicker-gnome",
+  "icon": "icons/ypsilon-picker.png",
   "version": 1
 }
