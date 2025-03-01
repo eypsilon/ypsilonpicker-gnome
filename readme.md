@@ -8,9 +8,9 @@ Ypsilon Picker is a minimalistic and GNOME-native color picker extension. It all
 
 ### Features
 
-✅ Fully GNOME-based – Works on any GNOME installation (Wayland & X11)
-✅ Simple & lightweight – No extra dependencies, just point & pick
-✅ Opens in a terminal – Displays the selected color's RGB & HEX values
+- ✅ Fully GNOME-based – Works on any GNOME installation (Wayland & X11)
+- ✅ Simple & lightweight – No extra dependencies, just point & pick
+- ✅ Opens in a terminal – Displays the selected color's RGB & HEX values
 
 ### Installation
 
@@ -67,6 +67,8 @@ RGB: 33 33 33
 HEX: #212121
 ```
 
-###### License
+---
+
+##### License
 
 MIT License
