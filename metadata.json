@@ -1,0 +1,8 @@
+{
+  "name": "Color Picker",
+  "description": "Pick a color from the screen and display its HEX value",
+  "uuid": "ypsilonpicker@gnome",
+  "shell-version": ["45", "46"],
+  "url": "https://your-repo-link",
+  "version": 1
+}
