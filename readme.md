@@ -8,9 +8,10 @@ Ypsilon Picker is a minimalistic and GNOME-native color picker extension. It all
 
 ### Features
 
-- ✅ Fully GNOME-based – Works on any GNOME installation (Wayland & X11)
-- ✅ Simple & lightweight – No extra dependencies, just point & pick
-- ✅ Opens in a terminal – Displays the selected color's RGB & HEX values
+* ✅ Fully GNOME-based – Works on any GNOME installation (Wayland & X11)
+* ✅ Wayland-compatible – Works seamlessly with modern GNOME on Wayland, unlike traditional X11-based pickers.
+* ✅ Simple & lightweight – No extra dependencies, just point & pick (less than 80 lines of code).
+* ✅ Opens in a terminal – Displays the selected color's RGB & HEX values
 
 ### Installation
 
@@ -26,7 +27,7 @@ __2. Manual Installation__
   - Clone this repository:
 
 ```sh
-git clone https://github.com/EnginYpsilon/ypsilon-picker.git ~/.local/share/gnome-shell/extensions/ypsilonpicker@gnome
+git clone https://github.com/eypsilon/ypsilonpicker-gnome.git ~/.local/share/gnome-shell/extensions/ypsilonpicker@gnome
 ```
 
 - Restart GNOME Shell:
