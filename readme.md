@@ -6,6 +6,8 @@ Authors: ChatGPT by OpenAI & Engin Ypsilon by class:Parent()
 
 Ypsilon Picker is a minimalistic and GNOME-native color picker extension. It allows you to point anywhere on the screen and instantly retrieve the RGB and HEX values of the selected color in a terminal.
 
+<sub></sub>
+
 ### Features
 
 * ✅ Fully GNOME-based – Works on any GNOME installation (Wayland & X11)
@@ -13,11 +15,12 @@ Ypsilon Picker is a minimalistic and GNOME-native color picker extension. It all
 * ✅ Simple & lightweight – No extra dependencies, just point & pick (less than 80 lines of code).
 * ✅ Opens in a terminal – Displays the selected color's RGB & HEX values
 
+
 ### Alternative
 
-Ypsilon Picker (PHP CLI) - <ins>readme.md</ins> includes an additional shell alternate
+[Ypsilon Picker (PHP CLI)](https://github.com/eypsilon/ypsilonpicker-php)
 
-[https://github.com/eypsilon/ypsilonpicker-php](https://github.com/eypsilon/ypsilonpicker-php)
+---
 
 ### Installation
 
@@ -58,6 +61,8 @@ __Enable the extension:__
 gnome-extensions enable ypsilonpicker@gnome
 ```
 
+---
+
 #### Usage
 - Click the Ypsilon Picker icon in the GNOME panel.
 - A tiny magnifying glass will appear, displaying the color under your cursor.
@@ -73,7 +78,6 @@ Click anywhere on the screen to pick a color...
 RGB: 33 33 33
 HEX: #212121
 ```
-
 ---
 
 ##### License
