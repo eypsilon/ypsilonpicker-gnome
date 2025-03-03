@@ -77,9 +77,3 @@ Click anywhere on the screen to pick a color...
 RGB: 33 33 33
 HEX: #212121
 ```
----
-
-<!-- Tags for searchability -->
-##### Tags
-
-`Color-Picker` `Wayland-Color-Picker` `Linux-Color-Picker` `GNOME-Color-Picker` `CLI-Color-Picker` `RGB-Hex-Extractor` `PHP-Terminal-Tool` `Open-Source-Color-Picker`
