@@ -16,7 +16,7 @@ Ypsilon Picker is a minimalistic and GNOME-native color picker extension. It all
 
 ### Alternative
 
-[Ypsilon Picker (PHP CLI)](https://github.com/eypsilon/ypsilonpicker-php)
+[***Ypsilon Picker (PHP CLI)***](https://github.com/eypsilon/ypsilonpicker-php)
 
 ---
 
@@ -80,4 +80,8 @@ HEX: #212121
 
 ##### License
 
-MIT License
+[**MIT License**](./LICENSE)
+
+
+<!-- Tags for searchability -->
+**Tags:** `Color-Picker` `Wayland-Color-Picker` `Linux-Color-Picker` `GNOME-Color-Picker` `CLI-Color-Picker` `RGB-Hex-Extractor` `PHP-Terminal-Tool` `Open-Source-Color-Picker`
