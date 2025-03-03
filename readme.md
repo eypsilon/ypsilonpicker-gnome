@@ -79,10 +79,7 @@ HEX: #212121
 ```
 ---
 
-##### License
-
-[**MIT License**](./LICENSE)
-
-
 <!-- Tags for searchability -->
-**Tags:** `Color-Picker` `Wayland-Color-Picker` `Linux-Color-Picker` `GNOME-Color-Picker` `CLI-Color-Picker` `RGB-Hex-Extractor` `PHP-Terminal-Tool` `Open-Source-Color-Picker`
+##### Tags
+
+`Color-Picker` `Wayland-Color-Picker` `Linux-Color-Picker` `GNOME-Color-Picker` `CLI-Color-Picker` `RGB-Hex-Extractor` `PHP-Terminal-Tool` `Open-Source-Color-Picker`
