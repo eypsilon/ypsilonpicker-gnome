@@ -13,7 +13,7 @@ Ypsilon Picker is a minimalistic and GNOME-native color picker extension. It all
 * ✅ Simple & lightweight – No extra dependencies, just point & pick (less than 80 lines of code).
 * ✅ Opens in a terminal – Displays the selected color's RGB & HEX values
 
-### Alternate
+### Alternative
 
 Ypsilon Picker (PHP CLI) - <ins>readme.md</ins> includes an additional shell alternate
 
